@@ -1,0 +1,4 @@
+<resources>
+    <!-- Wajib turunan Material agar BottomNavigationView tampil dengan benar -->
+    <style name="Theme.Kamus" parent="Theme.Material3.DayNight" />
+</resources>
